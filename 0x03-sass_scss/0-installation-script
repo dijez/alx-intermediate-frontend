@@ -1,3 +1,5 @@
 steps to install sass 
 1. install nodejs 
 2. intall sass using : npm install sass -v 3.7.4
+
+to create a scss file in console use : touch "filename"
